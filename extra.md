@@ -1,7 +1,7 @@
 EXTRA
 =========
 
-##(things like plugins etc. used and learned through the book )
+>##(things like plugins etc. used and learned through the book )
 
 ###chapter-02###
 ```
