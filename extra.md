@@ -1,11 +1,14 @@
-#EXTRA# ###(things like plugins etc. used and learned through the book)###
+EXTRA
+=========
 
->###chapter-02###
+##(things like plugins etc. used and learned through the book )
+
+###chapter-02###
 ```
 1. 
 ```
 
->###chapter-03###
+###chapter-03###
 ```
 
 1. Color plugin
