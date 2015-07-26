@@ -1,17 +1,11 @@
-////----------------------------------------------------------------------------------------------
-//ALL EXAMPLES ARE ASSEMBLED IN THIS SINGLE SCRIPT.JS FILE, 
-//TO PRACTISE THE PARTICULAR SNIPPET EITHER REMOVE THE COMMENTS OR WRITE BELOW THAT(do this, it will make your understanding well)
-//----------------------------------------------------------------------------------------------
-//
-//
-//
+//Chapter-02
 
 
 //__________________________________________________________________chapter_02/01_document_ready/script.js
 //
-//$(document).ready(function(){
-//	alert('Welcome to StarTrackr! Now no longer under police investigation!');
-//});
+$(document).ready(function () {
+    alert('Welcome to StarTrackr! Now no longer under police investigation!');
+});
 
 
 
@@ -353,22 +347,3 @@
 //        $(this).next().fadeIn();
 //    });
 //});
-
-
-
-//__________________________________________________________________chapter_02/17_insert_after/script.js
-//
-//$(document).ready(function () {
-//    
-//});
-
-
-
-//__________________________________________________________________chapter_02/17_insert_after/script.js
-//
-//$(document).ready(function () {
-//    
-//});
-
-
-//
